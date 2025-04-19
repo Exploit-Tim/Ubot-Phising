@@ -4,12 +4,12 @@ TELEGRAM : t.me/bagusror
 //SC INI DI BUAT OLEH BAGUS,,SC FREE GAUSAH DI JUAL ANJENG !! REUPLOAD ? TAG GW ANJENG YT : @bagusxixepen//
 
 const tokens = [
-    '8105086666:AAGt85dGOPmlr8cGSl1rkxtXaYOMN1W4Vu4',
+    '7694374653:AAG4CwdnZ4h6z9CnNe2JQfU58Aea55Bnjkc',
 ];
 
 // ISI DENGAN TOKEN BOT LU BUAT TOKEN DI TELE @BOTFATHER
 
-const ownerChatId = '7081489041';
+const ownerChatId = '6433540918';
 //ISI ID TELE LU,CEK ID TELE DI @cekid
 
 
